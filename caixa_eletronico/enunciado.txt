@@ -1,0 +1,12 @@
+Simular um caixa eletrônico que calcula a quantidade mínima de cédulas necessárias para um saque, usando estruturas de repetição.
+
+
+Você deve criar um programa que consigo fornecer apenas valores inteiros positivos de R$ 100,R$ 50, R$ 20,R$ 10, R$ 5 e R$ 2 necessárias para esse valor. Use uma estrutura de repetição para calcular as cédulas, no formato:
+Valor do saque: R$ 287 (entrada do programa)
+saída:  
+Cédulas de R$ 100: 2  
+Cédulas de R$ 50: 1  
+Cédulas de R$ 20: 1  
+Cédulas de R$ 10: 1  
+Cédulas de R$ 5: 1  
+Cédulas de R$ 2: 1
